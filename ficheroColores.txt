@@ -1,0 +1,10 @@
+1 Rojo
+2 Azul
+3 Verde
+4 Amarillo
+5 Naranja
+6 Morado
+7 Rosa
+8 Marrón
+9 Gris
+10 Negro
